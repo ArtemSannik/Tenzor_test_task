@@ -1,0 +1,56 @@
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_ru (call)
+Start time: 2024-03-05 19:15:04.777184
+Start name method: Authorization
+
+End time: 2024-03-05 19:15:10.430893
+End name method: Authorization
+URL: https://fix-sso.sbis.ru/auth-online/?ret=fix-online.sbis.ru/page/staff-list
+
+-----
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_ru (call)
+Start time: 2024-03-05 19:15:10.431217
+Start name method: Main_pages
+
+End time: 2024-03-05 19:15:17.983883
+End name method: Main_pages
+URL: https://fix-online.sbis.ru/page/staff-list/
+
+-----
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_ru (call)
+Start time: 2024-03-05 19:15:17.984428
+Start name method: Create_employee_ru
+
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_en (call)
+Start time: 2024-03-05 19:15:26.660411
+Start name method: Authorization
+
+End time: 2024-03-05 19:15:32.070902
+End name method: Authorization
+URL: https://fix-sso.sbis.ru/auth-online/?ret=fix-online.sbis.ru/page/staff-list
+
+-----
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_en (call)
+Start time: 2024-03-05 19:15:32.071215
+Start name method: Main_pages
+
+End time: 2024-03-05 19:15:43.311695
+End name method: Main_pages
+URL: https://fix-online.sbis.ru/page/staff-list/
+
+-----
+
+-----
+Test: tests/test_person_tenzor.py::test_people_tenzor_en (call)
+Start time: 2024-03-05 19:15:43.313468
+Start name method: Create_employee_en
+
